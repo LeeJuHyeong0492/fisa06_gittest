@@ -10,6 +10,8 @@ ____
 ##### 제목
 ###### 제목
 
+####### 제목
+
 **진하게**
 ** 진하게 **
 __진하게__
@@ -29,6 +31,6 @@ print('hello')
 [네이버로가기](https://naver.com)
 
 이미지링크 ![이미지](이미지링크)
-![네이버로가기](https://naver.com)
 
-변경사항입니다.
+![맹구](https://github.com/LeeJuHyeong0492/fisa06_gittest/blob/main/%EB%A7%B9%EA%B5%AC.jpg?raw=true)
+
